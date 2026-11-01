@@ -1,1 +1,1 @@
-TEMP DEBUG LINE
+const buttonLabel = "Sign In";
